@@ -73,9 +73,6 @@ Banking-System/
 └── README.md
 ```
 
-> Rename the main Python file to `Bank-pro.py` if it still has a
-> temporary name such as `new_test.py`.
-
 ## How to Run
 
 1.  Make sure Python is installed.
