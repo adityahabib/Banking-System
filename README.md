@@ -40,6 +40,16 @@ banking operations.
 The admin can view all accounts, search accounts, check total bank
 money, count accounts, and delete accounts.
 
+## 🔐 Admin Access
+
+The project includes an Admin Panel for managing bank accounts.
+
+Default Admin PIN:
+
+`1234`
+
+> Note: This PIN is for demonstration purposes only. In a real banking system, credentials should never be hardcoded in the source code.
+
 ## Concepts Used
 
 -   Python
