@@ -68,12 +68,12 @@ Default Admin PIN:
 
 ``` text
 Banking-System/
-├── banking_system.py
+├── Bank-pro.py
 ├── account.json
 └── README.md
 ```
 
-> Rename the main Python file to `banking_system.py` if it still has a
+> Rename the main Python file to `Bank-pro.py` if it still has a
 > temporary name such as `new_test.py`.
 
 ## How to Run
