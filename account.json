@@ -1,0 +1,36 @@
+{}
+    "gpt1001": {
+        "name": "Aditya habib",
+        "balance": 7050000,
+        "pin": 6767,
+        "account_number": "gpt1001",
+        "account_type": "SavingsAccount",
+        "transaction": [
+            "TCRA1003 - ₹10000 received from Ramu",
+            "TCRA1004 - ₹40000 received from Adi"
+        ]
+    },
+    "gpt1002": {
+        "name": "Ramu",
+        "balance": 20000,
+        "pin": 7676,
+        "account_number": "gpt1002",
+        "account_type": "SavingsAccount",
+        "transaction": [
+            "CRA1001 - Deposited amount: ₹10000",
+            "TDRA1002 - ₹10000 transferred to Aditya habib"
+        ]
+    },
+    "gpt1003": {
+        "name": "Adi",
+        "balance": 299000,
+        "pin": 7676,
+        "account_number": "gpt1003",
+        "account_type": "CurrentAccount",
+        "transaction": [
+            "CRA1001 - Deposited amount: ₹40000",
+            "ODRA1002 - Overdraft withdrawal: ₹1000",
+            "TDRA1003 - ₹40000 transferred to Aditya habib"
+        ]
+    }
+}
