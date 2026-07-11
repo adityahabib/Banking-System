@@ -84,7 +84,7 @@ Banking-System/
 4.  Run:
 
 ``` bash
-python banking_system.py
+python Bank-pro.py
 ```
 
 ## Data Storage
